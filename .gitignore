@@ -1,0 +1,6 @@
+# Ignore compiled code
+target/
+.idea/
+.vscode/
+*.log
+*.Zone.Identifier
